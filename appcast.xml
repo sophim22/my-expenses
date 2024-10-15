@@ -3,12 +3,12 @@
     <channel>
         <title>MyExpenses</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Tue, 15 Oct 2024 14:22:37 +0700</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Tue, 15 Oct 2024 14:32:45 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sophim22/my-expenses/releases/download/prod/myexpenses.dmg" length="826550" type="application/octet-stream" sparkle:edSignature="20iJmzN0ZUQkHb/p5QgjpPtuR7x/7MCsGVjpIQFQhGDRsX0amHF54L3abQPT+EFHveLc37SV1kVfLpQ1us+DBQ=="/>
+            <enclosure url="https://github.com/sophim22/my-expenses/releases/download/prod/myexpenses.dmg" length="826636" type="application/octet-stream" sparkle:edSignature="WRfRkwp02J6z4J97QsPqNXTqUXqZiKfnh3H80NjN8QCMLnnrggHFDI8y4K++LMVBkTvf2cJw/jN/Pl1vfMUiBA=="/>
         </item>
     </channel>
 </rss>
